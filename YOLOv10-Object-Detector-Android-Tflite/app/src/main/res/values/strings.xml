@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Detección de Objetos YOLOv10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="interface_time">Tiempo de Inferencia:</string>
+    <string name="gpu">GPU</string>
+    <string name="patreon_message">Universidad Nacional de Colombia</string>
+    <string name="gpu_acceleration">GPU Acceleration</string>
+</resources>
